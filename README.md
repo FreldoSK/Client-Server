@@ -1,0 +1,1 @@
+It is a simple chat application where there are two clients and one server. When a client sends a message, the server sends the same message back with the information about the date, time, and name of the sender. On the server side, you can press the history button to display the history of all messages.
