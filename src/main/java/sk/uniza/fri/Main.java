@@ -14,7 +14,7 @@ public class Main {
         }).start();
 
         new Thread(() -> {
-            Client client = new Client(rows, columns, "KolokPeter", "192.168.56.1", port);
+            Client client = new Client(rows, columns, "Ondrej", "192.168.56.1", port);
             client.startClient();
         }).start();
 
